@@ -22,4 +22,5 @@ Sobre min: Meu foco de estudos está voltado para área de desenvolvimento Mobil
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </div>
+
 ![Snake animation](https://github.com/WermesonF/WermesonF/blob/output/github-contribution-grid-snake.svg)
