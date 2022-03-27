@@ -12,8 +12,6 @@ Sobre min: Meu foco de estudos está voltado para área de desenvolvimento Mobil
 <a href="https://t.me/wermeson" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </div>
 
-[![Wermeson stats](https://github-readme-stats.vercel.app/api?username=WermesonF&show_icons=true=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 #### Tecnologias que eu uso no meu dia:
 <div>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -22,5 +20,7 @@ Sobre min: Meu foco de estudos está voltado para área de desenvolvimento Mobil
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </div>
+
+[![Wermeson stats](https://github-readme-stats.vercel.app/api?username=WermesonF&show_icons=true=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/WermesonF/WermesonF/blob/output/github-contribution-grid-snake.svg)
