@@ -1,4 +1,5 @@
-## Olá! seja bem-vindo(a), me chamo Wermeson Fernandes. 👨‍💻
+![github-header-image (4)](https://user-images.githubusercontent.com/101995826/170870141-c6ea03f4-5f45-488c-af11-04594a7295af.png)
+
 
 Sobre min: Meu foco de estudos está voltado para área de desenvolvimento Mobile, meus principais conhecimentos são em Android utilizando o java. Com tudo recentemente comecei a aventura no mundo do desenvolvimento híbrido utilizando o Flutter. Sou apaixonado por tecnologia e meu segundo hobby e IoT (Internet das coisas).
 
@@ -7,9 +8,9 @@ Sobre min: Meu foco de estudos está voltado para área de desenvolvimento Mobil
 #### Contatos:
 
 <div>
-<a href="https://www.linkedin.com/in/wermeson-fernandes73" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:wermesonfernandes20@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href="https://t.me/wermeson" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/wermeson-fernandes73" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-9437A9?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:wermesonfernandes20@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-9437A9?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href="https://t.me/wermeson" target="_blank"><img src="https://img.shields.io/badge/Telegram-9437A9?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </div>
 
 #### Tecnologias que eu uso no meu dia:
@@ -23,6 +24,6 @@ Sobre min: Meu foco de estudos está voltado para área de desenvolvimento Mobil
 
 <b></b>
 
-[![Wermeson stats](https://github-readme-stats.vercel.app/api?username=WermesonF&show_icons=true=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Wermeson stats](https://github-readme-stats.vercel.app/api?username=WermesonF&show_icons=true=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/WermesonF/WermesonF/blob/output/github-contribution-grid-snake.svg)
