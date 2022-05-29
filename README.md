@@ -1,4 +1,4 @@
-![github-header-image (4)](https://user-images.githubusercontent.com/101995826/170870141-c6ea03f4-5f45-488c-af11-04594a7295af.png)
+![github-header-image (5)](https://user-images.githubusercontent.com/101995826/170871547-43490ef3-db95-4ef5-bd8d-1ed948006a4b.png)
 
 
 Sobre min: Meu foco de estudos está voltado para área de desenvolvimento Mobile, meus principais conhecimentos são em Android utilizando o java. Com tudo recentemente comecei a aventura no mundo do desenvolvimento híbrido utilizando o Flutter. Sou apaixonado por tecnologia e meu segundo hobby e IoT (Internet das coisas).
