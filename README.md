@@ -26,8 +26,8 @@ Sobre min: Meu foco de estudos está voltado para área de desenvolvimento Mobil
 
 <div>
 <a href="https://github.com/WermesonF">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WermesonF&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WermesonF&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WermesonF&theme=jolly&layout=compact&langs_count=3)](https://github.com/anuraghazra/github-readme-stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WermesonF&theme=jolly&show_icons=true)](https://github.com/anuraghazra/github-readme-stats"/>
 </div>
 
 ![Snake animation](https://github.com/WermesonF/WermesonF/blob/output/github-contribution-grid-snake.svg)
